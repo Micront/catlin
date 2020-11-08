@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Catlin</string>
+    <string name="initial_phrase">Say hello to Catlin!</string>
+</resources>
