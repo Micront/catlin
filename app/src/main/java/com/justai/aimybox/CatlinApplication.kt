@@ -12,7 +12,7 @@ class CatlinApplication : Application(), AimyboxProvider {
 
     companion object {
         private const val DIALOG_API_URL =
-            "https://bot.jaicp.com/chatapi/webhook/zenbox/gnCUcwXC:54b68ae9b08ae3ae64047b7bd9627289204df921"
+            "https://bot.jaicp.com/chatapi/webhook/zenbox/fevNDffp:ea93342d4fe64d82193a7fd44696129ca98786d1"
     }
 
     override val aimybox by lazy { createAimybox(this) }

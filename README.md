@@ -1,19 +1,2 @@
-<img src="https://github.com/just-ai/jaicf-android-template/raw/master/demo.gif" align="right">
+App cheers up Kotlin newbies in the educational process. Bot’s name is Catlin and she can cheer you up, talk about Junction, Just AI and company’s products (such as JAICF, JAICP, Aimybox etc.). If you guess her favourite topics (JAICF, developing, Kotlin, music) you will get some relationship score points. All of your score pont will help you to get a present at the end of the conversation.
 
-# JAICF Android template
-
-This template project shows how to use [JAICF](https://github.com/just-ai/jaicf-kotlin) to create voice enabled mobile assistant using [Aimybox SDK](https://github.com/just-ai/aimybox-android-assistant).
-
-## How to use
-
-Just clone or fork this project and run one of the available build variants depending on NLU engine you'd like to use:
-
-- [CAILA](https://github.com/just-ai/jaicf-kotlin/tree/master/activators/caila)
-- [Rasa](https://github.com/just-ai/jaicf-kotlin/tree/master/activators/rasa)
-- [Dialogflow](https://github.com/just-ai/jaicf-kotlin/tree/master/activators/dialogflow)
-
-## Why to use JAICF
-
-JAICF enables you to serve an entire dialogue scenario right on the Android device, instead of hosting it anywhere in the cloud.
-
-> [Learn more](https://github.com/just-ai/jaicf-kotlin/wiki/Android) about JAICF for Android
